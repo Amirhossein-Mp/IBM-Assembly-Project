@@ -3,7 +3,7 @@
 This repository contains the source codes and materials for the Computer Architecture and Languages course project, implemented in IBM Assembly Language.
 ## Problems
 
-### **1. Collatz Conjecture**
+## 1. Collatz Conjecture
 - **Task:** Implement the **Collatz sequence** generator.  
 - **Input:** A single integer `n (n ≥ 1)`.  
 - **Process:**  
@@ -23,7 +23,7 @@ This repository contains the source codes and materials for the Computer Archite
 
 ---
 
-### **2. Logical Operations **
+## 2. Logical Operations
 - **Task:** Evaluate logical expressions with priority from **right to left**.  
 - **Operators Allowed:**  
   - AND: `&`  
@@ -44,7 +44,7 @@ This repository contains the source codes and materials for the Computer Archite
 
 ---
 
-### **3. Towers of Hanoi**
+## 3. Towers of Hanoi
 - **Task:** Solve the **Tower of Hanoi** puzzle with 3 rods.  
 - **Input:** Integer `m` = number of disks.  
 - **Initial condition:** All disks on rod 0.  
@@ -63,7 +63,7 @@ This repository contains the source codes and materials for the Computer Archite
 
 ---
 
-### **4. Subset Generation**
+## 4. Subset Generation
 - **Task:** Print all subsets of `{1, …, n}`.  
 - **Input:** Integer `n (n ≥ 0)`.  
 - **Output:** Each subset in braces `{}`.  
@@ -86,7 +86,7 @@ This repository contains the source codes and materials for the Computer Archite
 
 ---
 
-### **5. Pascal’s Triangle Row **
+## 5. Pascal’s Triangle Row 
 - **Task:** Compute the `i-th` row of **Pascal’s Triangle** recursively.  
 - **Formula:**  
   ```
